@@ -34,5 +34,4 @@ public class MataKuliah13 {
     void kurangiJam (int jamKurang) {
         jumlahJam -= jamKurang;
     }
-    
 }
